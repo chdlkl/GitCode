@@ -1,1 +1,2 @@
-first commit, hello, git!
+first commit
+second commit
